@@ -8,3 +8,4 @@
   <li>Xin cảm ơn</li>
 </ul>
 <h2>Link tải:</h2>
+<a href="https://github.com/dunkeyyfong/Tool-Send-File-and-Messenger/releases/tag/v1.0">Link chính đây !</a>
